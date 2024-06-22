@@ -2,3 +2,5 @@
 name = "linux-args"
 version = "0.1.0"
 edition = "2021"
+description = "Linux kernel arguments parser"
+license = "GPLv3"
